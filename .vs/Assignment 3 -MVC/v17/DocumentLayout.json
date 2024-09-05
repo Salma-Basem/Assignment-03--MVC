@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual Studio 2022\\Assignment 3 -MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\interfaces\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\interfaces\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\company.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\company.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\interfaces\\employee\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\interfaces\\employee\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\repositories\\genericrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\genericrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.repository\\company.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AD1C592-237D-4CD5-9962-A7DCFE2B047C}|Company.Repository\\Company.Repository.csproj|solutionrelative:company.repository\\company.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\company.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C65ADB-A09D-4D74-9376-2306B77794BA}|..\\Company.Data\\Company.Data.csproj|d:\\visual studio 2022\\company.data\\contexts\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:company.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\company.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCF9E5-7AAC-461A-9C27-4E717962948E}|Company.Service\\Company.Service.csproj|solutionrelative:company.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\HomeController[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\DepartmentController[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|d:\\visual studio 2022\\assignment 3 -mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6017E7FC-1A2B-477D-B65D-71EC2867BCF7}|Company.Web.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:48:53.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T03:40:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "RelativeToolTip": "Company.Service\\Services\\Employee\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:18:14.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Interfaces\\Employee\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Interfaces\\Employee\\IEmployeeService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Interfaces\\Employee\\IEmployeeService.cs",
+              "RelativeToolTip": "Company.Service\\Interfaces\\Employee\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:17:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Services\\Department\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Services\\Department\\DepartmentService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Services\\Department\\DepartmentService.cs",
+              "RelativeToolTip": "Company.Service\\Services\\Department\\DepartmentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:12:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Interfaces\\Department\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Interfaces\\Department\\IDepartmentService.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Interfaces\\Department\\IDepartmentService.cs",
+              "RelativeToolTip": "Company.Service\\Interfaces\\Department\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:06:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:50:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:48:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:47:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:46:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Company.Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:45:24.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepsoitory.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\GenericRepsoitory.cs",
+              "RelativeDocumentMoniker": "Company.Repository\\Repositories\\GenericRepsoitory.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Repositories\\GenericRepsoitory.cs",
+              "RelativeToolTip": "Company.Repository\\Repositories\\GenericRepsoitory.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:42:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Company.Data",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Company.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Company.Data.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Company.Data.csproj",
+              "RelativeToolTip": "..\\Company.Data\\Company.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T02:40:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.Service",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Company.Service.csproj",
+              "RelativeDocumentMoniker": "Company.Service\\Company.Service.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Company.Service.csproj",
+              "RelativeToolTip": "Company.Service\\Company.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T02:22:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Models\\Employee.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\Company.Data\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:28:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Company.Data\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:28:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Company.Repository",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Company.Repository.csproj",
+              "RelativeDocumentMoniker": "Company.Repository\\Company.Repository.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Repository\\Company.Repository.csproj",
+              "RelativeToolTip": "Company.Repository\\Company.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T02:23:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T02:20:29.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Contexts\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Contexts\\CompanyDbContext.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Contexts\\CompanyDbContext.cs",
+              "RelativeToolTip": "..\\Company.Data\\Contexts\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:00:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Models\\Department.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Models\\Department.cs",
+              "RelativeToolTip": "..\\Company.Data\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:59:39.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Company.Data\\Contexts\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Company.Data\\Contexts\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Company.Data\\Contexts\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "..\\Company.Data\\Contexts\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:59:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T23:42:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Company.Web",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Web.csproj",
+              "RelativeDocumentMoniker": "Company.Web.csproj",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Web.csproj",
+              "RelativeToolTip": "Company.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T23:13:07.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Company.Service\\Class1.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Company.Service\\Class1.cs",
+              "RelativeToolTip": "Company.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:07:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController[1].cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\HomeController[1].cs",
+              "ToolTip": "C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\HomeController[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:00:49.748Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:00:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentController[1].cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\DepartmentController[1].cs",
+              "ToolTip": "C:\\Users\\Salma\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A3X8WYH5\\DepartmentController[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:59:41.656Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:47:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:45:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\visual Studio 2022\\Assignment 3 -MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:44:06.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

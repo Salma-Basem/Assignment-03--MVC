@@ -1,0 +1,8 @@
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.csproj.AssemblyReference.cache
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.AssemblyInfoInputs.cache
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.AssemblyInfo.cs
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.csproj.CoreCompileInputs.cache
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.RazorAssemblyInfo.cache
+D:\visual Studio 2022\Assignment 3 -MVC\obj\Debug\net8.0\Company.Web.RazorAssemblyInfo.cs
